@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Arithmetics Operations">
+	<test name="logical test">
+		<classes>
+			<class name="FundTransfer.TestNGsp"></class>
+			
+		</classes>
+	</test>
+</suite>
+

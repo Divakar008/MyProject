@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Arithmetics Operations]">
+  <test thread-count="5" name="logical test(failed)">
+    <classes>
+      <class name="FundTransfer.TestNGfp">
+        <methods>
+          <include name="launchbrowser"/>
+        </methods>
+      </class> <!-- FundTransfer.TestNGfp -->
+    </classes>
+  </test> <!-- logical test(failed) -->
+</suite> <!-- Failed suite [Arithmetics Operations] -->
